@@ -114,4 +114,8 @@ I am an **AI/ML Engineer** passionate about **Machine Learning, Deep Learning, a
   <br>
   mail me at: <b>vchanda1006@gmail.com</b>
 </p> 
-![Github stats](https://github-readme-stats.vercel.app/api?username=varunreddy-ch)
+<h1></h1>
+<p align="center">📊 Stats</p>
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunreddy-ch&show_icons=true&theme=transparent&text_color=efefef&title_color=ebe5c2&icon_color=b9b28a" alt="stats">
